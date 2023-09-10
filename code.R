@@ -1,7 +1,17 @@
 ################################################################################
 ###
-### Heat Related Mortality Burden during the Record-Breaking Summer 2022 in Europe: An Integrated Continental Analysis. Nature Medicine (2023)
+### Code illustrating the analyses in:
+###
+### Heat-related mortality in Europe during the summer of 2022
+### Nature Medicine 29, 1857–1866 (2023)
+###
+### https://www.nature.com/articles/s41591-023-02419-z
+### https://doi.org/10.1038/s41591-023-02419-z
+###
 ### Contact: Joan Ballester (joan.ballester@isglobal.org)
+###
+### Note: This is a simplified code with sample data, results are expected to
+###       differ from those published in the article
 ### 
 ################################################################################
 
@@ -515,4 +525,5 @@ rm(iREG);
 dev.off();
 
 
+# "We are a way for the cosmos to know itself" (Carl Sagan)
 # "We've tried nothing, and we're all out of ideas" (The Simpsons)
